@@ -1,0 +1,26 @@
+Count of Sales,Column Labels,,,,,
+Row Labels,Central,East,South,West,(blank),Grand Total
+United States,2277,2785,1598,3140,,9800
+Furniture,470,591,326,691,,2078
+Bookcases,49,70,28,79,,226
+Chairs,151,167,86,203,,607
+Furnishings,198,275,162,296,,931
+Tables,72,79,50,113,,314
+Office Supplies,1399,1667,983,1860,,5909
+Appliances,122,123,81,133,,459
+Art,175,225,140,245,,785
+Binders,362,427,241,462,,1492
+Envelopes,58,70,54,66,,248
+Fasteners,53,61,29,71,,214
+Labels,75,105,64,113,,357
+Paper,313,367,218,440,,1338
+Storage,205,237,127,263,,832
+Supplies,36,52,29,67,,184
+Technology,408,527,289,589,,1813
+Accessories,174,203,125,254,,756
+Copiers,16,20,7,23,,66
+Machines,21,37,18,39,,115
+Phones,197,267,139,273,,876
+(blank),,,,,,
+(blank),,,,,,
+Grand Total,2277,2785,1598,3140,,9800
